@@ -15,6 +15,13 @@
       ],
       "js": ["jquery-3.4.1.min.js", "video.js"],
       "all_frames": true
+    },
+    {
+      "matches": [
+        "https://karauctionservices.csod.com/*"
+      ],
+      "js": ["jquery-3.4.1.min.js", "video_show_controls.js"],
+      "all_frames": true
     }
   ],
   "manifest_version": 2
