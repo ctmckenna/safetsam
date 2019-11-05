@@ -18,7 +18,7 @@
     },
     {
       "matches": [
-        "https://karauctionservices.csod.com/*"
+        "https://karauctionservices.csod.com/content/karauctionservices/publications/*/index_lms_html5.html"
       ],
       "js": ["jquery-3.4.1.min.js", "video_show_controls.js"],
       "all_frames": true
